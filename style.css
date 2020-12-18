@@ -11,3 +11,28 @@ html {
 body {
     width: 100%;
 }
+
+#alert:visited {
+    background-color: beige;
+}
+
+#somme:visited {
+    background-color: yellow;
+}
+
+#alert:hover {
+    background-color: brown;
+}
+
+#somme:hover {
+    background-color: green;
+}
+
+#alert:active {
+    background-color: blue;
+}
+
+#somme:active {
+    background-color: red;
+}
+
